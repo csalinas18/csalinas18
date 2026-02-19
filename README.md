@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Camilo Salinas</h1>
-<h3 align="center">Systems Engineering | UNAL Colombia</h3>
+<h3 align="center">Computer Systems Engineering | UNAL Colombia</h3>
 
 <div align="center">
 
